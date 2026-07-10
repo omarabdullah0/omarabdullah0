@@ -1,12 +1,24 @@
-- 👋 Hello I’m Omar Abdullah
-- 👀 I’m interested in HTML , CSS and JAVASCRIPT in Frontend 
-- 🌱 I’m currently learning Frontend and backend
-- 💞️ I’m looking to collaborate on Frontend 
-- 📫 How to reach me: omaeabdulaah5@gmail.com
-- 😄 Pronouns: omar
-- ⚡ Fun fact: I Love gem but i dont any time to go there
+# Hi, I'm Omar Abdullah 👋
 
-<!---
-omarabdullah0/omarabdullah0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Graduate  
+📊 Data Analyst
+
+I'm passionate about transforming data into actionable insights and building interactive dashboards that support business decisions. I enjoy working with Power BI, SQL, Python, and Excel to analyze data and solve real-world problems.
+
+## Tech Stack
+- Power BI
+- SQL
+- Python
+- Excel
+- Power Query
+- DAX
+- Pandas
+- Git & GitHub
+
+## Currently
+- 📚 Continuously improving my data analytics and business intelligence skills.
+- 🚀 Building real-world projects and expanding my portfolio.
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/omar-abdullah11/
+- Email: omarabdoelhantour@gmail.com
